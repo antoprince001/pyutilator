@@ -84,7 +84,7 @@ If you're interested in contributing to pyutilator, please take a look at our [c
 1. Fork it (<https://github.com/antoprince001/pyutilator/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. If you've added code that should be tested, add tests.
-4. Ensure the test suite passes.
+4. Ensure the test suite passes. (`pytest`)
 5. Commit your changes (`git commit -m 'Add some fooBar'`)
 6. Push to the branch (`git push origin feature/fooBar`)
 7. Create a new Pull Request
