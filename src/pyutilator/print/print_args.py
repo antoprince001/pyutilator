@@ -1,5 +1,6 @@
 def print_args(func):
-    def inner(*args, **kwargs):
-        for arg in args:
-            print("%s" % arg)
-    return inner
+    """ Print function Arguments"""
+    def wrapper(*args, **kwargs):
+        print(f"Function Arguments : {args} ")
+        func(*args, **kwargs)
+    return wrapper
