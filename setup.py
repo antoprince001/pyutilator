@@ -11,7 +11,7 @@ setuptools.setup(
     description = "Python Utility Decorators",
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    url = "https://github.com/antoprince001/pyutilator",
+    # url = "https://github.com/antoprince001/pyutilator",
     # project_urls = {
     #     "Bug Tracker": "package issues URL",
     # },
