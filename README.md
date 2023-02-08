@@ -73,11 +73,6 @@ Function Arguments : (1,)
 Sum : 3
 ```
 
-## Installation
-You can run the :
-
-``` pip install pyutilator ```
-
 ## Contributing
 If you're interested in contributing to pyutilator, please take a look at our [contributing guidelines](https://github.com/antoprince001/pyutilator/blob/main/CONTRIBUTION.md). We welcome all contributions, whether they're bug fixes, new features, or documentation improvements.
 
