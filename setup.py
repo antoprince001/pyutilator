@@ -5,7 +5,7 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name = "pyutilator",
-    version = "0.0.2",
+    version = "1.0.0",
     author = "Antony Prince J",
     author_email = "antoprince001@gmail.com",
     description = "Python Utility Decorators",
